@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.resume-section {
+  margin-bottom: 20px;
+}
+
+.resume-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
